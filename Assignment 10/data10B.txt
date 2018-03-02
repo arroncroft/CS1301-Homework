@@ -1,0 +1,25 @@
+CS1301
+Fares
+18
+2
+VSU
+Fall
+2013
+Nicholas   20	30
+Lebron     90	   95
+Justyn     15	25
+Bilal      60		65
+Jamel      75	76
+Brooks     82	85
+Matthew    62	62
+Jonathan   95	96
+Yalanda    87	86
+Raven      77	78
+Zachary    65	66
+Michael    81	84
+Charles    97	96
+Edward     88	87
+Giovanni   73	75
+April      12	22
+Nicholas   100	100
+Zebedee    55	56

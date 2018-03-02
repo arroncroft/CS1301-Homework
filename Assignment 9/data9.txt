@@ -1,0 +1,14 @@
+CS 1301
+10/20/2015
+Fares
+
+Java Software Solutions teaches a foundation of programming techniques to foster
+well-designed object-oriented software. Heralded for its integration of small
+and large realistic examples, this worldwide best-selling text emphasizes 
+building solid problem-solving and design skills to write high-quality programs.
+
+CS1301AB  Fall-2015  
+Test3 is scheduled for Thursday, 11/12/2015
+Have a good day.
+
+10  20  2015
